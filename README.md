@@ -12,5 +12,5 @@ Committing to code for 100 days
 [Day 3 Control Flow and Logical Operators](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%203)
 [Created a Treasure Island Game]
 
-[Day 4 Randomization and Python List] (https://github.com/toyobam92/100-days-of-code-/tree/main/Day%204
+[Day 4 Randomization and Python List](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%204
 [Created a Rock Papper Scissor Game]
