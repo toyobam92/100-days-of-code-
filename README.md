@@ -14,3 +14,6 @@ Committing to code for 100 days
 
 [Day 4 Randomization and Python List](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%204)
 [Created a Rock Papper Scissor Game]
+
+[Day 5 Python Loops] (https://github.com/toyobam92/100-days-of-code-/tree/main/Day%205)
+[Created a Password Generator]
