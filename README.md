@@ -17,3 +17,6 @@ Committing to code for 100 days
 
 [Day 5 Python Loops](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%205)
 [Created a Password Generator]
+
+[Day 6 Python Functions and Karel](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%206)
+[Reeoborgs Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
