@@ -22,3 +22,5 @@ Committing to code for 100 days
 [Reeoborgs Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
 
 [Day 7 Hangman Project](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%207)
+
+[Day 8 Ceasar Cipher, Function input](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%208)
