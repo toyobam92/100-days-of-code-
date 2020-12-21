@@ -26,3 +26,6 @@ Committing to code for 100 days
 [Day 8 Ceasar Cipher, Function input](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%208)
 
 [Day 9 Silent Auction,Dictionaries ](https://github.com/toyobam92/100-days-of-code-/commit/defe38b7ff14355c8de3b794ce6bb1a6a781d214)
+
+[Day 10 Calculator,Functions with outputs,"return"](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2010)
+
