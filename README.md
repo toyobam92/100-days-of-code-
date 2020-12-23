@@ -29,3 +29,7 @@ Committing to code for 100 days
 
 [Day 10 Calculator,Functions with outputs,"return"](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2010)
 
+[Day 11:BlackJack game]
+
+[Day 12:Guess Game](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2012)
+
