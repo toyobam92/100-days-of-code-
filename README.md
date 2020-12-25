@@ -33,3 +33,7 @@ Committing to code for 100 days
 
 [Day 12:Guess Game](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2012)
 
+[Day 13:Debugging]
+
+[Day 14:Higher_lower game](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2014)
+
