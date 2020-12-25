@@ -51,6 +51,9 @@ while game_on:
   else:
     game_on = False
     print(f"Sorry You're wrong, Your final score is {score}")
+    play_again = input("Will you like to play again?, Try 'y' or 'n'")
+      if play_again == 'y':
+        game_on = True
 
 
 
