@@ -37,3 +37,5 @@ Day 13:Debugging
 
 [Day 14:Higher_lower game](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2014)
 
+[Day 15:Coffee Machine](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2015)
+
