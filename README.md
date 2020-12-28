@@ -39,3 +39,7 @@ Day 13:Debugging
 
 [Day 15:Coffee Machine](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2015)
 
+[Day 16:OOP Coffee machine](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2016)
+
+[Day 17:Quiz Project](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2017)
+
