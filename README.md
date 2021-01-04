@@ -47,3 +47,5 @@ Day 13:Debugging
 
 [Day 19:Instances,State and Higher Order Functions](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2019)
 
+[Day 20:Build the Snake Game Part 1:](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2020)
+
