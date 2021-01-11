@@ -51,3 +51,8 @@ Day 13:Debugging
 
 [Day 21:Completed the Snake Game](https://github.com/toyobam92/100-days-of-code-/tree/main/Day/21)
 
+[Day 22:Arcade Game](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2022)
+
+[Day 23:Turtle Crossing Game](https://github.com/toyobam92/100-days-of-code-/tree/main/Day%2023)
+
+
